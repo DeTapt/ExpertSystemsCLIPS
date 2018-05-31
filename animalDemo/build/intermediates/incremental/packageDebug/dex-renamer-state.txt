@@ -1,0 +1,7 @@
+#Thu Sep 21 11:06:45 EEST 2017
+base.0=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a07fb3ed3f234ca5f24e0e9b98e29cb56b589d16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddb178920499e634826ad2fee03355f2fe4ae4ab\\classes.dex
+base.1=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddb178920499e634826ad2fee03355f2fe4ae4ab
+file.0=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a07fb3ed3f234ca5f24e0e9b98e29cb56b589d16\\classes.dex

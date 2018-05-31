@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Sep 21 11:06:23 EEST 2017
+2.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\assets\\debug\\animaldemo.clp
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\assets\\debug\\bcdemo.clp
+5.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\assets\\debug
+1.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+6.set=ASSET
+0.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\assets\\debug
+3.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=ASSET

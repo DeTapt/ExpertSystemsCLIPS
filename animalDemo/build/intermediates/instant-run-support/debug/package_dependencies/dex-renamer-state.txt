@@ -1,0 +1,4 @@
+#Thu Sep 21 11:06:41 EEST 2017
+base.0=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_646f95b818eef1f34bd767b825fe977b39927fa7
+renamed.0=classes.dex
+file.0=C\:\\Users\\Tasos\\Desktop\\AnimalDemo\\animalDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_646f95b818eef1f34bd767b825fe977b39927fa7\\classes.dex

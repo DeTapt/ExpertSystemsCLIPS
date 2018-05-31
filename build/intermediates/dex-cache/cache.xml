@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\AnimalDemo\animalDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25a79d21d786d57ea9c19ccf897e54f366af040b">
+        <dex dex="C:\Users\Tasos\Desktop\AnimalDemo\animalDemo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ddb178920499e634826ad2fee03355f2fe4ae4ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tasos\Desktop\AnimalDemo\animalDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Tasos\Desktop\AnimalDemo\animalDemo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a07fb3ed3f234ca5f24e0e9b98e29cb56b589d16\classes.dex" />
+    </item>
+
+</items>
